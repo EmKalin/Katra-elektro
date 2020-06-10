@@ -1,0 +1,30 @@
+header{
+    height: 60vh;
+    background-image: url("naimg/nazedzia.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+header button{
+    background: navy;
+    border:2px aliceblue;
+    color: white;
+    padding: 5px;
+    font-size: 26px;
+    background-position-x: left;
+    background-position-y: bottom;
+
+}
+
+#reservation{
+    height: 85vh;
+
+    background-image: url("naimg/tlo.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#reservation label{
+    font-weight: bold;
+}
+
