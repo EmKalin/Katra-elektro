@@ -1,0 +1,1 @@
+$modif_user = "UPDATE `users` SET `user_id` = '11', `login` = 'jlaskowski2', `pass` = 'haslo13', `user_name` = 'Jaccek', `user_lastname` = 'Laaskowski', `telephone_num` = '993992990' WHERE `users`.`user_id` =";
